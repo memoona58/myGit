@@ -12,12 +12,16 @@
 + Thomas Karanikiotis
 + Kyriakos Chatzidimitriou
 + Andreas Symeonidis
-  
++ **Track**  MSR 2020 Data Showcase
+
 >At the time: Tue 30 Jun 2020 10:52 - 11:00 at MSR:Zoom - 
 Quaility Evolution ***Chair(s): Jürgen Cito***
 
-####Conference (and Link): https://2020.msrconf.org/program/program-msr-2020
-[Paper PDF Link](https://issel.ee.auth.gr/wp-content/uploads/2020/05/MSR2020.pdf "Click here to open the papr PDF")
+####Conference (and Link):
+ https://2020.msrconf.org/details/msr-2020-Data-showcase/7/Employing-Contribution-and-Quality-Metrics-for-Quantifying-the-Software-Development-P
+
+**Paper PDF link**
+["Click here to open the papr PDF"](https://issel.ee.auth.gr/wp-content/uploads/2020/05/MSR2020.pdf )
 
 #Introduction
  This research paper is about the Collaborative work of employeeqs and their measurement for software development values. AS software development is arising rapidly and become a collaborative process of taking part in online hosting programming services. ***For Example:*** Github , Bitbucket or Gitlab. Developers are doing collective work as software engineering is providing enormous facilities. __Github__ is a repository hosting services, it is providing web graphical interface , access control and collaborative features. In these collaborative materials , software projects are the combinations of different contribution. This collaboration is a multiple axes having so many things from coding a project to its debugging process, it includes each and  every information. Thus all the data combine and form a **"story"** of all project containing answers of every ___W.H Question___.
@@ -69,8 +73,11 @@ hpeter@inf.u-szeged.hu***
 **Track** MSR 2020 Mining Challenge
 >At the timeMon 29 Jun 2020 12:40 - 13:00 at MSR:Zoom2 - MSR Mining Challenge Chair(s): Antoine Pietri, Stefano Zacchiroli, Diomidis Spinellis
 
-####Conference (and Link): https://2020.msrconf.org/details/msr-2020-mining-challenge/3/Exploring-the-Security-Awareness-of-the-Python-and-JavaScript-Open-Source-Communities
-[Paper PDF Link](https://arxiv.org/pdf/2006.13652.pdf "Click here to open the papr PDF")
+####Conference (and Link): 
+https://2020.msrconf.org/details/msr-2020-mining-challenge/3/Exploring-the-Security-Awareness-of-the-Python-and-JavaScript-Open-Source-Communities
+
+**Paper PDF link**
+["Click here to open the papr PDF"](https://arxiv.org/pdf/2006.13652.pdf )
 
 # Introduction
 This research is about Exploring Software security awareness of two open-resource communities, Python and JavaScript. AS software security is one of the obvious problrm that , identifies threats that target most software, impacting the security vulnerability on the daily basis. so in this research it will defined how to how to examine vulnerability mitigation. And for this eximination Python and JavaScript open-source projects are being targeted as the both are the most popular and widely used languages in surroundings. On the basis of Software Heritage Graph Dataset containing development history of publically available software it is being find that JavaScript security vulnerability is falling into 87 various catogries whereas Python is falling into 71 catogries out of which 55 security vulnerability are common.
@@ -113,7 +120,7 @@ John Ahlgren, Maria Eugenia Berezin, Kinga Bojarczuk, Elena Dulskyte, Inna Dvort
 + Natalija Gucevska, Mark Harman
 + Shan He, Ralf Lämmel
 + Erik Meijer, Silvia Sapora
-+ Justin Spahr-Summers
++ Justin Spahr-Summers 
   
  **Track** ICPC 2020 Industry
 > A the time : Wed 15 Jul 2020 02:00 - 02:15 at ICPC - Session 10: Documentation Chair(s): Gias Uddin
@@ -121,7 +128,8 @@ John Ahlgren, Maria Eugenia Berezin, Kinga Bojarczuk, Elena Dulskyte, Inna Dvort
  #### Conference (and Link): 
 https://conf.researchr.org/details/icpc-2020/icpc-2020-industry/2/Ownership-at-Large-Open-Problems-and-Challenges-in-Ownership-Management
 
-[Paper PDF Link](https://research.fb.com/wp-content/uploads/2020/05/Ownership-at-Large-Open-Problems-and-Challenges-in-Ownership-Management.pdf "Click here to open the papr PDF")
+**Paper PDF link**
+["Click here to open the papr PDF"](https://research.fb.com/wp-content/uploads/2020/05/Ownership-at-Large-Open-Problems-and-Challenges-in-Ownership-Management.pdf )
 
 # Introduction
 This research is about managing the software asset Ownership in different organizations and platform. Every industry cover with its well-mannered ownership responsibilities. Such as security, reliability, task code maintainability and so on. So for all these requirements Ownership managment in software engineering is highly recommended. In this paper the word **asset** refer to source code files, tables, warehousing. Whereas word **owner** refers to Set of people taking responsibility for the asset. And the work will be done on facebook
