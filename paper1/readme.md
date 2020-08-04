@@ -17,13 +17,13 @@
 >At the time: Tue 30 Jun 2020 10:52 - 11:00 at MSR:Zoom - 
 Quaility Evolution ***Chair(s): Jürgen Cito***
 
-####Conference (and Link):
+#### Conference (and Link):
  https://2020.msrconf.org/details/msr-2020-Data-showcase/7/Employing-Contribution-and-Quality-Metrics-for-Quantifying-the-Software-Development-P
 
 **Paper PDF link**
 ["Click here to open the papr PDF"](https://issel.ee.auth.gr/wp-content/uploads/2020/05/MSR2020.pdf )
 
-#Introduction
+# Introduction
  This research paper is about the Collaborative work of employeeqs and their measurement for software development values. AS software development is arising rapidly and become a collaborative process of taking part in online hosting programming services. ***For Example:*** Github , Bitbucket or Gitlab. Developers are doing collective work as software engineering is providing enormous facilities. __Github__ is a repository hosting services, it is providing web graphical interface , access control and collaborative features. In these collaborative materials , software projects are the combinations of different contribution. This collaboration is a multiple axes having so many things from coding a project to its debugging process, it includes each and  every information. Thus all the data combine and form a **"story"** of all project containing answers of every ___W.H Question___.
  #### Motivation
 The basic motive of the research is the dataset of monitoring what we call the ***story*** of the project consider as ***Agile Methodoloy*** having goal of building high quality software. The ***Github*** infrastructure examines all the data contribution. Sum-up the employees contibutions and quality measurement that answer every arising question.
@@ -31,7 +31,7 @@ The basic motive of the research is the dataset of monitoring what we call the *
 
 
 # Research Methodology
-####Architecture And Tools
+#### Architecture And Tools
 The architecture of this platform is involving four given below modules.
  ***__i Data Downloader :__*** It is a Python application that uses all the GitHUb repository to fetch all the offered information. This information contain issues, comments, issue commits, issues events, repository information, contributors information and the source code repository as well.
 ***__ii. MangoDB Management :__*** It is used as the database management system, having all the raw data repossess from GitHub accompanying results of contribution and quantity analysis. Data are arranged in collection icdicating different types of information. for more afficient data the files of information are connected through elements like repository name, commit etc.
