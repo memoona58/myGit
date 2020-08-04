@@ -8,7 +8,7 @@
 
 ## AUTHORS
 
-|Authors| Site|
+|Authors| Site|    
 |-----------|------|
 |Themistoklis DiamantopouloS|[Open](https://2020.msrconf.org/profile/themistoklisdiamantopoulos)|
 |Michail Papamichail|[Open](https://2020.msrconf.org/profile/michailpapamichail)|
