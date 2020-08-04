@@ -5,16 +5,23 @@
 John Ahlgren, Maria Eugenia Berezin, Kinga Bojarczuk, Elena Dulskyte, Inna Dvortsova, Johann george, Natalija Gucevska, Mark Harman, Shan He, Ralf Lämmel, Erik Meijer, Silvia Sapora, and Justin Spahr-Summers.__**
 
 ## AUTHORS
-+ John Ahlgren
-+ Maria Eugenia Berezin
-+ Kinga Bojarczuk, Johann George
-+ Natalija Gucevska, Mark Harman
-+ Shan He, Ralf Lämmel
-+ Erik Meijer, Silvia Sapora
-+ Justin Spahr-Summers
+|Authors| Site|
+|-----------|------|
+|John Ahlgren|[Open](https://conf.researchr.org/profile/icpc-2020/johnahlgren)|
+|Maria Eugenia Berezin|[Open](https://conf.researchr.org/profile/icpc-2020/mariaeugeniaberezin)|
+|Kinga Bojarczuk, Johann George|[Open](https://conf.researchr.org/profile/icpc-2020/kingabojarczuk)|
+| Natalija Gucevska, Mark Harman|[Open](https://conf.researchr.org/profile/icpc-2020/natalijagucevska)|
+|Shan He|[Open](https://conf.researchr.org/profile/icpc-2020/shanhe)|
+|Ralf Lämmel|[Open](https://conf.researchr.org/profile/icpc-2020/ralflammel)|
+|Erik Meijer|[Open](https://conf.researchr.org/profile/icpc-2020/erikmeijer1)|
+|Silvia Sapora|[Open](https://conf.researchr.org/profile/icpc-2020/silviasapora)|
+| Justin Spahr-Summers|[Open](https://conf.researchr.org/profile/icpc-2020/justinspahrsummers)|
+
+
   
- **Track** ICPC 2020 Industry
-> A the time : Wed 15 Jul 2020 02:00 - 02:15 at ICPC - Session 10: Documentation Chair(s): Gias Uddin
+ >**Track :** [ICPC 2020 Industry](https://conf.researchr.org/track/icpc-2020/icpc-2020-industry?track=ICPC%20Industry)
+
+> **A the time :** Wed 15 Jul 2020 02:00 - 02:15 at ICPC - Session 10: Documentation Chair(s): Gias Uddin
  
  #### Conference (and Link): 
 https://conf.researchr.org/details/icpc-2020/icpc-2020-industry/2/Ownership-at-Large-Open-Problems-and-Challenges-in-Ownership-Management

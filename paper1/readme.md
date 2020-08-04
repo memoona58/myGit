@@ -7,14 +7,20 @@
      @issel.ee.auth.gr,asymeon@eng.auth.gr Electrical and Computer Engineering Dept., Aristotle University of Thessaloniki Thessaloniki, Greece***
 
 ## AUTHORS
-+ Themistoklis DiamantopouloS
-+ Michail Papamichail
-+ Thomas Karanikiotis
-+ Kyriakos Chatzidimitriou
-+ Andreas Symeonidis
-+ **Track**  MSR 2020 Data Showcase
 
->At the time: Tue 30 Jun 2020 10:52 - 11:00 at MSR:Zoom - 
+|Authors| Site|
+|-----------|------|
+|Themistoklis DiamantopouloS|[Open](https://2020.msrconf.org/profile/themistoklisdiamantopoulos)|
+|Michail Papamichail|[Open](https://2020.msrconf.org/profile/michailpapamichail)|
+|Thomas Karanikiotis|[Open](https://2020.msrconf.org/profile/thomaskaranikiotis)|
+|Kyriakos Chatzidimitriou|[Open](https://2020.msrconf.org/profile/kyriakoschatzidimitriou)|
+|Andreas Symeonidis|[Open](https://2020.msrconf.org/profile/andreassymeonidis)|
+
+
+
+>**Track:**  [MSR 2020 Data Showcase](https://2020.msrconf.org/track/msr-2020-Data-showcase?track=MSR%20Data%20Showcase)
+
+>**At the time:** Tue 30 Jun 2020 10:52 - 11:00 at MSR:Zoom - 
 Quaility Evolution ***Chair(s): Jürgen Cito***
 
 #### Conference (and Link):

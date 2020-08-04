@@ -9,11 +9,18 @@ Péter Hegedűs, MTA-SZTE Research Group on,Artificial Intelligence,Szeged, Hung
 hpeter@inf.u-szeged.hu
 
 ## AUTHORS
-+ Gabor Antal
-+  Peter Hegedus
-+  Márton Keleti
-**Track** MSR 2020 Mining Challenge
->At the timeMon 29 Jun 2020 12:40 - 13:00 at MSR:Zoom2 - MSR Mining Challenge Chair(s): Antoine Pietri, Stefano Zacchiroli, Diomidis Spinellis
+|Authors| Site|
+|-----------|------|
+|Gabor Antal|[Open](https://2020.msrconf.org/profile/gaborantal)|
+|Peter Hegedus|[Open](https://2020.msrconf.org/profile/peterhegedus)|
+|  Márton Keleti|[Open](https://2020.msrconf.org/profile/martonkeleti)|
+
+
+
+ 
+>**Track :** [MSR 2020 Mining Challenge](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge)
+
+>**At the time :** Mon 29 Jun 2020 12:40 - 13:00 at MSR:Zoom2 - MSR Mining Challenge Chair(s): Antoine Pietri, Stefano Zacchiroli, Diomidis Spinellis
 
 #### Conference (and Link): 
 https://2020.msrconf.org/details/msr-2020-mining-challenge/3/Exploring-the-Security-Awareness-of-the-Python-and-JavaScript-Open-Source-Communities
