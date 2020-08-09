@@ -30,5 +30,5 @@
 |2| Paper PDF|[Open](https://research.fb.com/wp-content/uploads/2020/05/Ownership-at-Large-Open-Problems-and-Challenges-in-Ownership-Management.pdf )
 |3| Paper Summary readme file.|[Open](Paper3/readme.md)|
 
-
+  
 

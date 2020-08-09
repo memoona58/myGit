@@ -35,7 +35,7 @@ Quaility Evolution ***Chair(s): Jürgen Cito***
 The basic motive of the research is the dataset of monitoring what we call the ***story*** of the project consider as ***Agile Methodoloy*** having goal of building high quality software. The ***Github*** infrastructure examines all the data contribution. Sum-up the employees contibutions and quality measurement that answer every arising question.
 
 
-
+  
 # Research Methodology
 #### Architecture And Tools
 The architecture of this platform is involving four given below modules.
