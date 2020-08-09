@@ -44,7 +44,7 @@ The architecture of this platform is involving four given below modules.
 ***__iii. Contributor Analyzer :__*** It uses the information retrieved from GitHub in order to enumerates a series of measure that quantify the activity of each contributor in terms of both, development and operations. The logic behind the selection of these metrics derives from their use in current research [9, 12, 15, 16, 20] from a development and operations standpoint.
  ***__iv. Quality Analyzer__*** Effectual tracking of the software development process needs analyzing the quality of the final product. so for overall evolution of product's lifecycle , statical analysis on weekly basis is being performed to recognize  the generally accepted coding implementation.
 
-![Architectuere Overview](./Arch_view.jpg) 
+![ Architectuere Overview](./Arch_view.jpg) 
 
 #### DATASET And Construction
 In software development process the online repository comprises vital part. constituting serial provocation and providing list of chances that are swamp to the accessible data to enable and compute the software development to form a worthwhile rise model. these data are inhabiting in GitHub to form a dataset, used for that objective. It also contain some challenges given below :
