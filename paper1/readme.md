@@ -53,8 +53,9 @@ In software development process the online repository comprises vital part. cons
 ***iii .*** Enable tailor-made dataset construction: The main target of the whole scenario is that to impart the dataset that is formable enough to used by researcher to tangled vast range of queries. The frameworks of both, repositories and contributions are enabled to refine data based on sole need and objectives of each researcher.
 
 #### Impact And Research Direction
-This dataset can be used to square up to the various challenges in research methodology. As it contain various software process metrics with instant of infraction. So the developers manner can be analyzed in various axes. Such as debugging, commit issues comment distribution and contribution metrics. The dataset include source code, textual and process data that can be excavate to take out the areas of expertise for each developers. so that it will help developers to manage their profile and find best team match. Research in field of automated bug assignment is very wide and use in many metrics of this dataset.
+This dataset can be used to square up to the various challenges in research methodology. As it contain various software process metrics with instant of infraction. So the developers manner can be analyzed in various axes. Such as debugging, commit issues comment distribution and contribution metrics. The dataset include source code, textual and process data that can be excavate to take out the areas of expertise for each developers. so that it will help developers to manage their profile and find best team match. Research in field of automated bug assignment is very wide and use in the many metrics of this dataset.
 
 # Result
 The research is being made for the excavate contribution data from GitHub that gives useful insights on software development process and produce practical result that may be used to upgrade it. This research turn out the area for building the useful metrics. The dataset in this research is providing facility to answer the various research queries.
+
 
