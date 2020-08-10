@@ -12,7 +12,7 @@
 |1| Employing Contribution and Quality Metrics for Quantifying the Software Development Process| [Open](https://2020.msrconf.org/details/msr-2020-Data-showcase/7/Employing-Contribution-and-Quality-Metrics-for-Quantifying-the-Software-Development-P)|
 |2| Paper PDF|[Open](https://issel.ee.auth.gr/wp-content/uploads/2020/05/MSR2020.pdf )
 |3| Paper Summary readme file.|[Open](paper1/readme.md)|
-
+ 
 
 ### Research Paper 2
 
